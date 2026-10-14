@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#KAN-38] T1- 10 Linux Commands</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://afshaanfathimachar.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <b><a id="parent_issue_summary" href="https://afshaanfathimachar.atlassian.net/browse/KAN-32">Jagu</a></b>
+                <span style="font-size: 9px">(<a id="parent_issue_key" href="https://afshaanfathimachar.atlassian.net/browse/KAN-32">KAN-32</a>)</span>
+                <h3 class="formtitle"><img src="https://afshaanfathimachar.atlassian.net/images/icons/link_out_bot.gif" width="16" height="16" />
+                        [KAN-38]&nbsp;<a href="https://afshaanfathimachar.atlassian.net/browse/KAN-38">T1- 10 Linux Commands</a>
+            <span class="subText">
+               Created: 12/Oct/26                   &nbsp;Updated: 12/Oct/26
+
+                                                    &nbsp;Resolved: 12/Oct/26
+                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Done</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://afshaanfathimachar.atlassian.net/secure/BrowseProject.jspa?id=10001">$sudo5!</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+    
+            <td width="20%"><b>Parent:</b></td>
+        <td width="80%"><a href="https://afshaanfathimachar.atlassian.net/browse/KAN-32">Jagu</a></td>
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Subtask
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:29170b80-de24-4f11-8db7-ec3ce3cad61a"
+                id="word_reporter_712020:29170b80-de24-4f11-8db7-ec3ce3cad61a"
+                href="https://afshaanfathimachar.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3A29170b80-de24-4f11-8db7-ec3ce3cad61a">
+                    Afshaan Fathima
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:374c5d6e-d0c2-46cd-a4dd-61bab033e804"
+                id="word_assignee_712020:374c5d6e-d0c2-46cd-a4dd-61bab033e804"
+                href="https://afshaanfathimachar.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3A374c5d6e-d0c2-46cd-a4dd-61bab033e804">
+                    Sriram JAGU
+                </a>
+
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                            Done
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-10111-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            None
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+    
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Rank:</b></td>
+                <td id="customfield_10019-10111-value" class="value" bgcolor="#ffffff" width="80%">      0|i00081:
+  </td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <div class='table-wrap'>
+<table class='confluenceTable'><tbody>
+<tr>
+<td class='confluenceTd'>1</td>
+<td class='confluenceTd'><tt>cp</tt></td>
+<td class='confluenceTd'>Copies files or directories</td>
+<td class='confluenceTd'><tt>cp notes.txt backup.txt</tt> (add <tt>-r</tt> to copy a folder)</td>
+</tr>
+<tr>
+<td class='confluenceTd'>2</td>
+<td class='confluenceTd'><tt>mv</tt></td>
+<td class='confluenceTd'>Moves or renames files</td>
+<td class='confluenceTd'><tt>mv old.txt new.txt</tt> or <tt>mv file.txt /tmp/</tt></td>
+</tr>
+<tr>
+<td class='confluenceTd'>3</td>
+<td class='confluenceTd'><tt>touch</tt></td>
+<td class='confluenceTd'>Creates an empty file, or updates a file’s timestamp</td>
+<td class='confluenceTd'><tt>touch newfile.txt</tt></td>
+</tr>
+<tr>
+<td class='confluenceTd'>4</td>
+<td class='confluenceTd'><tt>cat</tt></td>
+<td class='confluenceTd'>Prints a file’s contents to the screen</td>
+<td class='confluenceTd'><tt>cat /etc/hosts</tt></td>
+</tr>
+<tr>
+<td class='confluenceTd'>5</td>
+<td class='confluenceTd'><tt>less</tt></td>
+<td class='confluenceTd'>Lets you scroll through a long file page by page (q to quit)</td>
+<td class='confluenceTd'><tt>less /var/log/syslog</tt></td>
+</tr>
+<tr>
+<td class='confluenceTd'>6</td>
+<td class='confluenceTd'><tt>head</tt></td>
+<td class='confluenceTd'>Shows the first lines of a file (10 by default)</td>
+<td class='confluenceTd'><tt>head -n 5 file.txt</tt></td>
+</tr>
+<tr>
+<td class='confluenceTd'>7</td>
+<td class='confluenceTd'><tt>tail</tt></td>
+<td class='confluenceTd'>Shows the last lines of a file; <tt>-f</tt> follows new lines live</td>
+<td class='confluenceTd'><tt>tail -f /var/log/syslog</tt></td>
+</tr>
+<tr>
+<td class='confluenceTd'>8</td>
+<td class='confluenceTd'><tt>grep</tt></td>
+<td class='confluenceTd'>Searches for text patterns inside files</td>
+<td class='confluenceTd'><tt>grep "error" app.log</tt></td>
+</tr>
+<tr>
+<td class='confluenceTd'>9</td>
+<td class='confluenceTd'><tt>find</tt></td>
+<td class='confluenceTd'>Searches for files and directories by name, type, size, etc.</td>
+<td class='confluenceTd'><tt>find /home -name "*.txt"</tt></td>
+</tr>
+<tr>
+<td class='confluenceTd'>10</td>
+<td class='confluenceTd'><tt>echo</tt></td>
+<td class='confluenceTd'>Prints text, or writes it into a file with redirection</td>
+<td class='confluenceTd'><tt>echo "Hello" &gt; hello.txt</tt></td>
+</tr>
+</tbody></table>
+</div>
+
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+Generated at Wed Oct 14 09:43:33 UTC 2026 by Sriram JAGU using Jira 1001.0.0-SNAPSHOT#100295-rev:ebe79a766a7c9049e087ebcb53dfb0df2c1d2c51.
+
+</body>
+</html>
