@@ -1,0 +1,20 @@
+listing_id,order_date,buyer_id,seller_id,item_name,category,item_condition,unit_price,quantity,discount_pct,city,sales_channel,payment_method,order_status,authenticity_check,seller_rating,days_listed_before_sale,resale_premium_pct,seller_tier,buyer_type,shipping_fee,return_flag,revenue,price_category
+LST-3001,2026-09-02,B201,S101,Retro Basketball Sneakers,Sneakers,Deadstock,12999.0,1,0.0,Chennai,App,Upi,Sold,Verified,5,3.0,45.0,Verified Seller,Collector,65.0,No,12999.0,High
+LST-3002,2026-09-03,B202,S102,Vintage Graphic Tee,Vintage Tees,Good,899.0,2,10.0,Chennai,Instagram Drop,Card,Sold,Verified,4,12.0,25.0,Casual Seller,Casual Buyer,45.0,No,1618.2,Low
+LST-3003,2026-09-04,B203,S103,Collab Trainer - Special Colorway,Sneakers,Like New,18500.0,1,15.0,Mumbai,Website,Wallet,Delivered,Pending,4,8.0,130.0,Power Seller,Reseller,65.0,No,15725.0,High
+LST-3004,2026-09-05,Unknown,S104,Archive Denim Jacket,Vintage Outerwear,Worn,2499.5,1,0.0,Bengaluru,Live Auction,Upi,Disputed,Failed,3,17.0,-12.5,Collector,Collector,90.0,Yes,2499.5,Medium
+LST-3005,,B205,S105,Limited Drop Hoodie,Streetwear,Good,5499.0,1,20.0,Hyderabad,App,Cash On Delivery,In Transit,Verified,5,21.0,80.0,Verified Seller,Gift Buyer,120.0,No,4399.2,Medium
+LST-3006,2026-09-07,B206,S106,Skate Deck - Artist Series,Skate Collectibles,Deadstock,2799.0,1,0.0,Pune,Community Swap,Card,Listed,Not Required,4,35.0,45.0,Casual Seller,Collector,0.0,No,2799.0,Medium
+LST-3007,2026-09-08,B207,S107,Vintage Cargo Pants,Vintage Bottoms,Like New,1899.0,1,7.5,Kochi,Website,Net Banking,Delivered,Verified,4,17.0,18.0,Power Seller,Casual Buyer,45.0,No,1756.575,Low
+LST-3008,2026-09-09,B208,S108,Tour Merch Crewneck,Music Merch,Good,3200.0,1,5.0,Delhi,Instagram Drop,Upi,Returned,Verified,4,6.0,42.5,Casual Seller,Gift Buyer,65.0,Yes,3040.0,Medium
+LST-3009,2026-09-10,B209,S109,Retro Running Sneakers,Sneakers,Needs Repair,1799.99,1,7.5,Mumbai,Live Auction,Card,Sold,Pending,4,17.0,42.5,Collector,Reseller,65.0,No,1664.9907500000002,Low
+LST-3010,,B210,S110,Y2K Shoulder Bag,Vintage Accessories,Good,2799.0,1,5.0,Kochi,App,Wallet,Cancelled,Not Required,3,60.0,35.0,Casual Seller,Casual Buyer,45.0,No,2659.0499999999997,Medium
+LST-3011,2026-09-12,B211,S111,Deadstock Graphic Tee,Streetwear,Deadstock,1499.0,1,0.0,Jaipur,Website,Upi,Delivered,Verified,5,2.0,60.0,Verified Seller,Collector,45.0,No,1499.0,Low
+LST-3012,2026-09-13,B212,S112,Signed Skate Zine Bundle,Skate Collectibles,Good,8999.0,1,10.0,Ahmedabad,Community Swap,Card,Disputed,Failed,4,44.0,42.5,Collector,Reseller,90.0,No,8099.1,High
+LST-3013,2026-09-14,B213,S113,Vintage Graphic Tee,Vintage Tees,Good,899.0,2,10.0,Chennai,Instagram Drop,Upi,Sold,Verified,4,12.0,25.0,Casual Seller,Casual Buyer,45.0,No,1618.2,Low
+LST-3014,2026-09-15,B214,S114,Limited Drop Hoodie,Streetwear,Needs Repair,1299.0,1,15.0,Hyderabad,App,Card,Delivered,Verified,4,15.0,55.0,Power Seller,Collector,65.0,Yes,1104.1499999999999,Low
+LST-3015,2026-09-16,B215,S115,Retro Basketball Sneakers,Sneakers,Like New,14999.0,1500,10.0,Mumbai,Website,Upi,In Transit,Pending,5,9999.0,145.0,Verified Seller,Reseller,120.0,No,20248650.0,High
+LST-3016,2026-09-17,B216,S116,Archive Denim Jacket,Vintage Outerwear,Good,3299.0,1,7.5,Chennai,Live Auction,Net Banking,Delivered,Not Required,3,26.0,-20.0,Casual Seller,Gift Buyer,45.0,No,3051.5750000000003,Medium
+LST-3017,2026-09-18,B217,S117,Y2K Shoulder Bag,Vintage Accessories,Good,2799.0,1,5.0,Hyderabad,App,Wallet,Returned,Failed,2,31.0,40.0,Power Seller,Casual Buyer,65.0,No,2659.0499999999997,Medium
+LST-3018,,B218,S118,Skate Deck - Artist Series,Skate Collectibles,Deadstock,7999.0,1,0.0,Pune,Website,Card,Listed,Not Required,5,17.0,70.0,Collector,Collector,45.0,No,7999.0,Medium
+LST-3019,2026-09-20,B219,S119,Tour Merch Crewneck,Music Merch,Worn,2799.0,1,20.0,Chennai,Instagram Drop,Upi,Delivered,Verified,4,18.0,30.0,Casual Seller,Gift Buyer,65.0,No,2239.2000000000003,Medium
